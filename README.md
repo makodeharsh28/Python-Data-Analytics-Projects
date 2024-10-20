@@ -12,12 +12,12 @@ Each project leverages the power of the Python Pandas Library for data manipulat
 
 1. **[Weather Data Analysis](./Project1_Weather_Data_Analysis)**
 2. **[Cars Data Analysis](./Project2_Cars_Data_Analysis)**
-3. **[Police Data Analysis](./Project3_Police_Data_Analysis)**
-4. **[Covid Data Analysis](./Project4_Covid_Data_Analysis)**
-5. **[London Housing Data Analysis](./Project5_London_Housing_Data_Analysis)**
-6. **[Census Data Analysis](./Project6_Census_Data_Analysis)**
-7. **[Udemy Data Analysis](./Project7_Udemy_Data_Analysis)**
-8. **[Netflix Data Analysis](./Project8_Netflix_Data_Analysis)**
+3. **[Police Data Analysis](//Project3_Police_Data_Analysis)**
+4. **[Covid Data Analysis](//Project4_Covid_Data_Analysis)**
+5. **[London Housing Data Analysis](//Project5_London_Housing_Data_Analysis)**
+6. **[Census Data Analysis](//Project6_Census_Data_Analysis)**
+7. **[Udemy Data Analysis](//Project7_Udemy_Data_Analysis)**
+8. **[Netflix Data Analysis](//Project8_Netflix_Data_Analysis)**
 
 ## How to Use This Repository
 
