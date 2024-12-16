@@ -1,4 +1,4 @@
-# Python-Data-Analytics-Real-World-Hands-on-Projects
+# Python-Data-Analytics-Projects
 
 Welcome to the **Python Data Analytics Projects** repository. This collection features 8 meticulously crafted projects solved using Python, designed to equip you with the practical skills and knowledge required to succeed in the field of Data Analytics.
 
